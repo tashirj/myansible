@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  my-app:
+  - apiVersion: v1
+    created: 2018-10-24T17:14:55.497372317+05:30
+    description: A Helm chart for Kubernetes
+    digest: ec4c51b99628c9490280c89edea04196f14a3e38ba069c7bc89eaaee1adf0cc5
+    name: my-app
+    urls:
+    - https://https:/tashirj.github.io/myansible/helm-example/my-app-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-10-24T17:14:55.496968473+05:30
